@@ -1,3 +1,5 @@
+# EDA INSIGHTS
+---
 ### 1. Dataset Overview
 - The dataset contains information about **30,000 credit card clients** in Taiwan.  
 - The target variable **"default"** indicates whether a client defaulted (1 = Yes, 0 = No).  
